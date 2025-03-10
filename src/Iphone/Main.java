@@ -3,7 +3,7 @@ package Iphone;
 public class Main {
     
     public static void main(String[] args) {
-        ReprodutorDeMusicas musica = new ReprodutorDeMusicas("Música 1", "Música 2", "Música 3");
+        ReprodutorDeMusicas musica = new ReprodutorDeMusicas("Música 1", "Música 1", "Música 1");
         musica.musica();
         
         AparelhoTelefonico ligacao = new AparelhoTelefonico("123456789", "987654321", "987654321");
